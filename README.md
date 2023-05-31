@@ -22,7 +22,7 @@ In this project, I cleaned, aggregated, analyzed and visualized data using Micro
 3. Bike purchase by region: I view the number of purchases by region to determine which region had the highest. It was seen that North America had the highest purchase of 220, followed by Europe 148 purchases and lastly Pacific which had 113 purchases.
 4. Bike purchase by Marital Status: Next, I viewed the number of purchases by marital status, I noticed just I slight difference between married and single people that bought bikes. 231 married people bought bikes while 250 single people bought bikes
 ## Dashboard visualization
-The conclusion and recommendation where derived from this dashboard ![image](
+The conclusion and recommendation where derived from this dashboard ![image](https://github.com/Faithjf/Data_Analysis_And_Visualization_Excel/blob/main/Bike_purchaes_dashdoard-2.jpg)
 
 ## CONCLUSION AND RECOMMENDATIONS
 After carefully considering the report analysis, I noticed that on the average based on the information provided in this data, bike purchases aren’t having enough sales because, out of 1000 individuals surveyed, only 481 purchased bikes. Therefore, there’s need to attract more buyers by means of advertisement, such as: Tv broadcast, social media, etc.
